@@ -1,0 +1,310 @@
+@font-face
+{
+	font-family:'Magelove';
+	src:url('Magelove.otf');	
+}
+@font-face
+{
+	font-family:'African Style';
+	src:url('African Style.ttf');	
+}
+@font-face
+{
+	font-family:'Brushield';
+	src:url('Brushield.otf');	
+}
+@font-face
+{
+	font-family:'Destiny';
+	src:url('Destiny.otf');
+}
+@font-face
+{
+	font-family:'RuhmaFont';
+	src:url('RuhmaFont.otf');
+}
+@font-face
+{
+	font-family:'Realistica';
+	src:url('Realistica.otf');
+}
+
+body/*background*/
+{
+
+	background-image:url(background5.jpg);
+	background-repeat: repeat;
+}
+h1
+{
+	color:#FFCC22;
+	font-family:"Magelove";
+	/*font-family:"Papyrus",fantasy;*/
+	font-size:80px;
+	font-weight:bold;
+}
+.Home
+{
+	color:#C63300 ;
+	font-size:30px;
+	font-family: "RuhmaFont";
+	display:block;
+	position:fixed;
+	top:2%;
+	right:1.5%;
+	font-weight:bold;
+}
+
+.rightNote
+{
+	font-family: "RuhmaFont";
+	color:#C63300  ;
+	font-size:30px;
+	display:block;
+	font-weight:bold;
+	position:absolute;
+}
+.leftNote
+{
+	font-family: "RuhmaFont";
+	color:#C63300 ;
+	font-size:30px;
+	display:block;
+	font-weight:bold;
+	position:absolute;
+}
+.Vlog1
+{
+	display:block;
+	border:3px dashed #C63300  ;
+	margin:3%;
+	position:absolute;
+	right:5%;
+	top:24%;
+	
+}
+.Vlog2
+{
+	display:block;
+	border:3px dashed #C63300  ;
+	margin:3%;
+	position:absolute;
+	left:5%;
+	top:80%;
+}
+.Vlog3
+{
+	display:block;
+	border:3px dashed	#C63300 ;
+	margin:3%;
+	position:absolute;
+	right:5%;
+	top:140%;
+	
+}
+.Vlog4
+{
+	display:block;
+	border:3px dashed 	#C63300  ;
+	margin:3%;
+	position:absolute;
+	left:5%;
+	top:200%;
+}
+.Vlog5
+{
+	display:block;
+	border:3px dashed 	#C63300  ;
+	margin:3%;
+	position:absolute;
+	right:5%;
+	top:260%;
+}
+.Vlog6
+{
+	display:block;
+	border:3px dashed 	#C63300  ;
+	margin:3%;
+	position:absolute;
+	left:5%;
+	top:340%;
+}
+.Vlog7
+{
+	display:block;
+	border:3px dashed 	#C63300  ;
+	margin:3%;
+	position:absolute;
+	right:5%;
+	top:400%;
+	
+}
+.Vlog8
+{
+	display:block;
+	border:3px dashed 	#C63300  ;
+	margin:3%;
+	position:absolute;
+	left:5%;
+	top:460%;
+}
+.Vlog9
+{
+	display:block;
+	border:3px dashed 	#C63300  ;
+	margin:3%;
+	position:absolute;
+	right:5%;
+	top:520%;
+}
+.Vlog10
+{
+	display:block;
+	border:3px dashed 	#C63300  ;
+	margin:3%;
+	position:absolute;
+	left:5%;
+	top:580%;
+	
+}
+#Songs
+{
+	display:block;
+	position:absolute;
+	left:10%;
+	top:30%;
+	bottom:4.5%;
+	width:34%;
+}
+#SongsNote
+{
+	font-family: "Brushield";
+	color:#C63300  ;
+	font-size:60px;
+	display:block;
+	font-weight:bold;
+	position:absolute;
+	left:25%;
+	top:35%;
+}
+#TakeAway
+{
+	display:block;
+	
+	position:absolute;
+	right:10%;
+	top:30%;
+	bottom:4.5%;
+	width:34%;
+}
+#TakeNote
+{
+	font-family: "Brushield";
+	color:#C63300  ;
+	font-size:50px;
+	display:block;
+	font-weight:bold;
+	position:absolute;
+	left:25%;
+	top:39%;
+}
+.whole
+{
+	position:absolute;
+	right:0px;
+	left:0px;
+	top:0px;
+	bottom:0px;
+}
+
+#S1
+{
+	position:absolute;
+	left:8%;
+	top:30%;
+}
+
+#S2
+{
+	position:absolute;
+	left:40%;
+	top:30%;
+}
+#S3
+{
+	position:absolute;
+	right:8%;
+	top:30%;	
+}
+#S4
+{
+	position:absolute;
+	left:8%;
+	top:80%;
+}
+#S5
+{
+   position:absolute;
+	left:40%;
+	top:80%;
+}
+#S6
+{
+	position:absolute;
+	right:8%;
+	top:80%;
+}
+#S7
+{
+	position:absolute;
+	left:8%;
+	top:130%;
+}
+#S8
+{
+	position:absolute;
+	left:40%;
+	top:130%;
+}
+#S9
+{
+	position:absolute;
+	right:8%;
+	top:130%;
+}
+#S10
+{
+	position:absolute;
+	left:8%;
+	top:180%;
+}
+#S11
+{
+	position:absolute;
+	left:40%;
+	top:180%;
+}
+#S12
+{
+	position:absolute;
+	right:8%;
+	top:180%;
+}
+#S13
+{
+	position: absolute;
+	left:8%;
+	top:230%;
+}
+#S14
+{
+	position:absolute;
+	left:40%;
+	top:230%;
+}
+#S15
+{
+	position:absolute;
+	right:8%;
+	top:230%;
+}
