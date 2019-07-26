@@ -1,0 +1,187 @@
+@font-face
+{
+	font-family:'Magelove';
+	src:url('Magelove.otf');	
+}
+@font-face
+{
+	font-family:'African Style';
+	src:url('African Style.ttf');	
+}
+@font-face
+{
+	font-family:'Brushield';
+	src:url('Brushield.otf');	
+}
+@font-face
+{
+	font-family:'Destiny';
+	src:url('Destiny.otf');
+}
+@font-face
+{
+	font-family:'RuhmaFont';
+	src:url('RuhmaFont.otf');
+}
+@font-face
+{
+	font-family:'Realistica';
+	src:url('Realistica.otf');
+}
+.whole
+{
+	position:absolute;
+	top:0px;
+	right:0px;
+	left:0px;
+	bottom:0px;
+}
+body/*background*/
+{
+
+	background-image:url(home3.jpg);
+	background-size:cover;
+	
+}
+.Home
+{
+	color:#C63300 ;
+	font-size:30px;
+	font-family: "RuhmaFont";
+	display:block;
+	position:absolute;
+	top:2%;
+	right:1.5%;
+	font-weight:bold;
+	float:right;
+}
+h1/*About: Kexin Ju*/
+{
+	color:#FFCC22;
+	font-family:"Magelove";
+	font-size:100px;
+	font-weight:bold;
+}
+.Name
+{
+	display:block;
+	width:500px;
+	height:300px;
+	background:500px 300px;
+	position:absolute;
+	text-align: right;
+	right:30px;
+	top:100px;
+	width:100%;
+
+
+}
+#ChineseName
+{
+	font-size:100%;
+	float:right;
+	
+}
+#engName
+{
+	color:#FFCC22 ;
+	font-family:"Magelove";
+	font-size:60%;
+	font-weight:bold;
+	float:right;
+	
+}
+#location
+{
+	color:#C63300 ;
+	font-family:"Magelove";
+	font-weight:normal;
+	font-size:40%;
+	margin:10px;
+	float:right;
+	
+}
+#first
+{
+	display:block;
+	/*border:2px dashed#C63300 ;*/
+	margin:0.5%;
+	position:absolute;
+	left:3%;
+	top:8%;
+	bottom:50%;
+	width:15%;
+}
+#firstNote
+{
+	
+	font-family: "Brushield";
+	color:#C63300 ;
+	font-size:35px;
+	display:block;
+	position:absolute;
+	left:9%;
+}
+#second
+{
+	display:block;
+	/*border:2px dashed#FFCC22;*/
+	margin:0.5%;
+	position:absolute;
+	left:24%;
+	top:13%;
+	bottom:45%;
+	width:15%;
+}
+#secondNote
+{
+	font-family: "Brushield";
+	color:#FFCC22;
+	display:block;
+	position:absolute;
+	left:35%;
+	font-size:35px;
+}
+#third
+{
+	display:block;
+	/*border:2px dashed#FFCC22 ;*/
+	margin:0.5%;
+	position:absolute;
+	left:6%;
+	top:50%;
+	bottom:8%;
+	width:15%;
+}
+#thirdNote
+{
+	font-family: "Brushield";
+	color:#FFCC22;
+	display:block;
+	position:absolute;
+	left:35%;
+	font-size:35px;
+
+}
+#fourth
+{
+	display:block;
+	/*border:2px dashed#C63300;*/
+	margin:0.5%;
+	position:absolute;
+	left:27%;
+	top:57%;
+	bottom:2%;
+	width:15%;
+
+}
+#fourthNote
+{
+	font-family: "Brushield";
+	color:#C63300 ;
+	display:block;
+	position:absolute;
+	left:15%;
+	font-size:26px;
+	font-weight:bold;
+}

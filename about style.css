@@ -1,0 +1,161 @@
+@font-face
+{
+	font-family:'Magelove';
+	src:url('Magelove.otf');	
+}
+@font-face
+{
+	font-family:'African Style';
+	src:url('African Style.ttf');	
+}
+@font-face
+{
+	font-family:'Brushield';
+	src:url('Brushield.otf');	
+}
+@font-face
+{
+	font-family:'Destiny';
+	src:url('Destiny.otf');
+}
+@font-face
+{
+	font-family:'RuhmaFont';
+	src:url('RuhmaFont.otf');
+}
+@font-face
+{
+	font-family:'Realistica';
+	src:url('Realistica.otf');
+}
+.whole
+{
+	position:absolute;
+	top:0px;
+	left:5%;
+	right:5%;
+	bottom:0px;
+}
+body/*background*/
+{
+
+	background-image:url(background5.jpg);
+	background-size:cover;
+
+	/*background-color:#BC8F8F ;*/
+}
+#Home
+{
+	color:#C63300 ;
+	font-size:30px;
+	font-family: "RuhmaFont";
+	display:block;
+	position:fixed;
+	top:2%;
+	right:1.5%;
+	font-weight:bold;
+}
+h1/*About: Kexin Ju*/
+{
+	color:#FFCC22;
+	font-family:"Magelove";
+	/*font-family:"Papyrus",fantasy;*/
+	font-size:80px;
+	font-weight:bold;
+}
+h2/*General, Phyllis' Resume*/
+{
+	color:#2F4F4F ;
+	font-family:"Brushield";
+	/*font-family:"Impact",sans-serif;*/
+	font-size:60px;
+	font-weight:bold;
+	background-color:#DEB887;
+}
+#contact
+{
+	color:#2F4F4F ;
+	font-family:"Brushield";
+	/*font-family:"Impact",sans-serif;*/
+	font-size:60px;
+	font-weight:bold;
+	background-color:#DEB887;
+}
+.class2/*main content*/
+{
+	font-family:"RuhmaFont";
+	/*font-family:"Candara",sans-serif;*/
+	font-size:26px;
+	font-weight:bold;
+
+}
+.class1/*key words*/
+{
+	font-size:31px;
+	font-weight:normal;
+	font-family:"Brushield";
+	color:		#C10066;
+	
+	/*font-family:"COPPERPLATE",fantasy;*/
+}
+#firstSentence
+{
+	text-align: center;
+	font-size:25px;
+}
+#classroom/*pictures*/
+{
+	text-align: center;
+}
+
+.classImg/*single picture*/
+{
+	/*display: inline-block;*/
+	width:40% ;
+	margin:0 4% ;
+}
+.paragraph
+{
+	display:block;
+	margin: 8%;
+	width:80% ;
+
+}
+.articles
+{
+	text-align: center;
+}
+#portrait
+{
+	text-align:center;
+}
+#music/*pictures*/
+{
+	text-align: center;
+}
+#record/*pictures*/
+{
+	text-align: center;
+}
+#math/*pictures*/
+{
+	text-align: center;
+}
+
+#pdf
+{
+	text-align:center;
+}
+#Home
+{
+	color:#C63300 ;
+	font-size:30px;
+	font-family: "RuhmaFont";
+	display:block;
+	position:fixed;
+	top:2%;
+	right:1.5%;
+	font-weight:bold;
+	
+
+}
